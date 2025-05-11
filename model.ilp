@@ -1,0 +1,9 @@
+\ Model main_problem_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+\ Signature: 0x267ae670d66001af
+Minimize
+ 
+Subject To
+ pre_relationship_['2215',_'2215']: <= -1
+Bounds
+End
